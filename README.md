@@ -1,6 +1,6 @@
 # E-Comm Template in React
 
-Ce projet est une reproduction d'un template Figma en utilisant React et Tailwind CSS. Il s'agit d'une application de commerce électronique comprenant plusieurs pages et composants, avec une interface moderne et réactive.
+Ce projet est une reproduction d'un template Figma en utilisant React et Tailwind CSS. Il s'agit d'une application de commerce électronique comprenant plusieurs pages et composants avec une interface moderne et conviviale.
 
 ## Aperçu du Projet
 
@@ -29,17 +29,20 @@ _Aperçu de l'interface utilisateur_
 - **Sidebar** : Menu latéral pour faciliter la navigation.
 - **Cart Sidebar** : Composant pour un aperçu rapide du panier.
 
+## Lien du Site Déployé
+
+[Visitez le site ici](https://e-comm-44af6.web.app)
+
+## Lien Figma
+
+[Voir le design Figma ici](<https://www.figma.com/design/6CLCdq0v1bVbdfoFKSY8cQ/eCommerce-Website-%7C-Web-Page-Design-%7C-UI-KIT-%7C-Interior-Landing-Page-(Community)?node-id=117-336&node-type=frame&t=25bgKDwB6pDdH2Bv-0>)
+
 ## Technologies Utilisées
 
 - **React.js** : Bibliothèque pour créer des interfaces utilisateur.
+- **Tailwind CSS** : Framework CSS pour un style rapide et flexible.
 - **React Router** : Pour la navigation entre les pages.
-- **Tailwind CSS** : Framework CSS pour un style rapide et personnalisable.
-- **Vite** : Pour un développement rapide et léger (si utilisé).
-
-## Prérequis
-
-- **Node.js** : Version 14 ou supérieure.
-- **NPM** ou **Yarn** : Pour gérer les dépendances.
+- **Firebase Hosting** : Plateforme utilisée pour déployer l'application.
 
 ## Installation
 
